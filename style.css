@@ -1,0 +1,21 @@
+header {
+  text-align: center;
+  border-bottom: 2px solid #eee;
+  margin-bottom: 20px;
+}
+header .title {
+  font-size: 40px;
+}
+header .link {
+  font-size: 20px;
+  color: #03cffc;
+  text-decoration: none;
+}
+.product {
+  text-align: center;
+  margin-bottom: 20px;
+  padding: 1em;
+}
+.product .title {
+  font-size: 24px;
+}

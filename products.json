@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "title": "001: ポートフォリオサイト",
+      "info": "このサイト。アプリかどうかは知らん",
+      "image": "http://via.placeholder.com/320x240.png?text=No+Image",
+      "url": ""
+    },
+    {
+      "title": "002: 未定",
+      "info": "かみんぐすーん",
+      "image": "http://via.placeholder.com/320x240.png?text=No+Image",
+      "url": ""
+    }
+  ]
+}
