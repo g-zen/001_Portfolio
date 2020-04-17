@@ -7,7 +7,13 @@
       "url": "https://guppytubasa.github.io/001_Portfolio/index.html"
     },
     {
-      "title": "002: 未定",
+      "title": "002: 乱数ツール",
+      "info": "ただ単に乱数を生成するツール",
+      "image": "./img/002_randtool.png",
+      "url": "https://guppytubasa.github.io/002_randtool/index.html"
+    },
+    {
+      "title": "003: かみんぐすーん",
       "info": "かみんぐすーん",
       "image": "http://via.placeholder.com/320x240.png?text=No+Image",
       "url": ""
