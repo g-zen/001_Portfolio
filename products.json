@@ -2,27 +2,27 @@
   "products": [
     {
       "title": "001: ポートフォリオサイト",
-      "info": "このサイト。アプリかどうかは知らん",
+      "info": "このサイトです。VueJSを用いてコンテンツを動的に追加できるようになっています。",
       "image": "./img/001_portfolio.png",
       "url": "https://g-zen.github.io/001_Portfolio/index.html"
     },
     {
       "title": "002: 乱数ツール",
-      "info": "ただ単に乱数を生成するツール",
+      "info": "乱数を生成するシンプルなツールです。",
       "image": "./img/002_randtool.png",
       "url": "https://g-zen.github.io/002_randtool/index.html"
     },
     {
       "title": "003: ランダムIDツール",
-      "info": "5桁のIDを生成するだけ",
+      "info": "5桁のIDを生成するツールです。",
       "image": "./img/003_randomid.png",
       "url": "https://g-zen.github.io/003_randomid/index.html"
     },
     {
-      "title": "004: かみんぐすーん",
-      "info": "かみんぐすーん",
+      "title": "004: SimpleDrawing",
+      "info": "色の選択ができる簡素なお絵描きツールです。",
       "image": "http://via.placeholder.com/320x240.png?text=No+Image",
-      "url": ""
+      "url": "https://g-zen.github.io/SimpleDrawing/"
     }
   ]
 }
