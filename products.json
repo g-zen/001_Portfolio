@@ -21,7 +21,7 @@
     {
       "title": "004: SimpleDrawing",
       "info": "色の選択ができる簡素なお絵描きツールです。",
-      "image": "http://via.placeholder.com/320x240.png?text=No+Image",
+      "image": "./img/simple_drawing.png",
       "url": "https://g-zen.github.io/SimpleDrawing/"
     }
   ]
