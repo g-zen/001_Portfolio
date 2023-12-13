@@ -4,19 +4,19 @@
       "title": "001: ポートフォリオサイト",
       "info": "このサイト。アプリかどうかは知らん",
       "image": "./img/001_portfolio.png",
-      "url": "https://guppytubasa.github.io/001_Portfolio/index.html"
+      "url": "https://g-zen.github.io/001_Portfolio/index.html"
     },
     {
       "title": "002: 乱数ツール",
       "info": "ただ単に乱数を生成するツール",
       "image": "./img/002_randtool.png",
-      "url": "https://guppytubasa.github.io/002_randtool/index.html"
+      "url": "https://g-zen.github.io/002_randtool/index.html"
     },
     {
       "title": "003: ランダムIDツール",
       "info": "5桁のIDを生成するだけ",
       "image": "./img/003_randomid.png",
-      "url": "https://guppytubasa.github.io/003_randomid/index.html"
+      "url": "https://g-zen.github.io/003_randomid/index.html"
     },
     {
       "title": "004: かみんぐすーん",
